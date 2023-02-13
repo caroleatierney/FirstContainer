@@ -1,7 +1,7 @@
 {
  "name": "FirstContainer",
-  "version", "1.0.0",
-  "scripts" {
+  "version": "1.0.0",
+  "scripts": {
   "start": "node./index.js"
   },
   "dependencies": {
